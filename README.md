@@ -1,4 +1,4 @@
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widh="30px"> Hi there, I'm Ibrahima — an iOS developer 📱👨🏾‍💻.</h1>
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Ibrahima — an iOS developer 📱👨🏾‍💻.</h1>
 
 [![Ibrahima Ciss Blog](https://iciss.dev/img/meta/home.png)](https://iciss.dev)
 
