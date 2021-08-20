@@ -8,7 +8,7 @@ I'm always looking at opportunities to widen my knowledge and you'll find here s
 Feel free to reach out if I can help.
 
 ## Things I am passionate about 🤗:
-- Software Design
+- 🛠 Software Design
 - ✨ Clean Code
 - 🏗 Architecture
 - 🧪 Testing (TDD, BDD, Unit Testing)
