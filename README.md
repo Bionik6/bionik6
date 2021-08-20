@@ -8,14 +8,14 @@ I'm always looking at opportunities to widen my knowledge and you'll find here s
 Feel free to reach out if I can help.
 
 ## Things I am passionate about 🤗:
-- Software Design
-- Clean Code
-- Architecture
-- Testing (TDD, BDD, Unit Testing)
-- Automation (CI/CD)
-- Accessibility in iOS
-- Designing and building stunning UIs and animations
-- Exploring some iOS frameworks(UIKit, SwiftUI, Core Data, Combine, Core Location, CloudKit, ...)
+- 🛠 Software Design
+- ✨ Clean Code
+- 🏗 Architecture
+- 🧪 Testing (TDD, BDD, Unit Testing)
+- 🔁 Automation (CI/CD)
+- ♿️ Accessibility in iOS
+- 📱 Designing and building stunning UIs and animations
+- 🚦 Exploring some iOS frameworks(UIKit, SwiftUI, Core Data, Combine, Core Location, CloudKit, ...)
 
 ## Find me around the web 🌎:
 - ✍🏾 Blogging weekly at [iciss.dev](https://www.iciss.dev)
