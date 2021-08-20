@@ -18,8 +18,8 @@ Feel free to reach out if I can help.
 - Exploring some iOS frameworks(UIKit, SwiftUI, Core Data, Combine, Core Location, CloudKit, ...)
 
 ## Find me around the web 🌎:
-- Blogging weekly at [iciss.dev](https://www.iciss.dev) ✍🏾
-- Sharing my knowledge on [Twitter](https://www.twitter.com/bionik6) 💬
-- Some UI Design work at [Dribbble](https://dribbble.com/Bionik6) 🎨
-- Sharing updates on [LinkedIn](https://www.linkedin.com/in/bionik6/) 💼
-- And of course [GitHub](https://github.com/Bionik6) you're already on (Recursion) 😜
+- ✍🏾 Blogging weekly at [iciss.dev](https://www.iciss.dev)
+- 💬 Sharing my knowledge on [Twitter](https://www.twitter.com/bionik6)
+- 🎨 Some UI Design works at [Dribbble](https://dribbble.com/Bionik6)
+- 💼 Sharing updates on [LinkedIn](https://www.linkedin.com/in/bionik6/)
+- 😜 And of course [GitHub](https://github.com/Bionik6) you're already on (Recursion)
