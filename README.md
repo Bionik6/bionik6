@@ -14,8 +14,8 @@ Feel free to reach out if I can help.
 - Testing (TDD, BDD, Unit Testing)
 - Automation (CI/CD)
 - Accessibility in iOS
-- Design and building stunning UIs and animations
-- Exploring some iOS frameworks(UIKit, SwiftUI, Core Data, Combine, CloudKit, ...)
+- Designing and building stunning UIs and animations
+- Exploring some iOS frameworks(UIKit, SwiftUI, Core Data, Combine, Core Location, CloudKit, ...)
 
 ## Find me around the web 🌎:
 - Blogging weekly at [iciss.dev](https://www.iciss.dev) ✍🏾
